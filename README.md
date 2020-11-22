@@ -1,1 +1,1 @@
-# Deep Learning Coursera course
+# Deep Learning Coursera course (from deeplearning.ai)
